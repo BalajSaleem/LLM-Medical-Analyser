@@ -43,6 +43,9 @@ Decision 5: 1 shot example for final answer.
 ### Prerequisites
 
 - [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+- [OpenAI API Key](https://openai.com/blog/openai-api)
+- (Optional) For Judging LLMs, using Claude, [AWS Setup](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
+- 
 
 ### Installation
 
